@@ -69,8 +69,6 @@ agents = [
 
 header = {"user-agent": '[FBAN/FB4A;FBAV/222.0.0.48.113;FBBV/155323366;FBDM/{density=2.0,width=720,height=1360};FBLC/sr_RS;FBRV/156625696;FBCR/mt:s;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/LDN-L21;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]',
 
-					  "x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)),
-
 					  "x-fb-sim-hni": str(random.randint(20000, 40000)),
 
 					  "x-fb-net-hni": str(random.randint(20000, 40000)),
